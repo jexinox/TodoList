@@ -1,6 +1,8 @@
-﻿namespace TodoList.Controllers;
+﻿using Microsoft.AspNetCore.Mvc;
 
-public class TodoController
+namespace TodoList.Controllers;
+
+public class TodoController : Controller
 {
     
 }
