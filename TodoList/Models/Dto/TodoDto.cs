@@ -2,5 +2,5 @@
 
 public class TodoDto
 {
-    
+    public TodoEntity Todo { get; set; }
 }
